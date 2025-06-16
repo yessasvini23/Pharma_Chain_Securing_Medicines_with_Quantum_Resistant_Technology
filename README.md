@@ -60,6 +60,8 @@ cd pharmachain
 pip install -r requirements.txt
 python pharmachain_app.py
 
+
+
 📊 Global Impact (Simulated)
 ✅ Over 2.3M drug scans
 
@@ -68,6 +70,9 @@ python pharmachain_app.py
 💊 Estimated 1M+ lives protected annually
 
 🌐 Mobile-first, multilingual support
+
+
+
 
 🤝 Contributing
 We welcome contributions from researchers, developers, and public health experts.
@@ -82,8 +87,11 @@ Push to the branch (git push origin feature/my-feature)
 
 Create a Pull Request
 
+
 📜 License
 This project is licensed under the MIT License.
+
+
 
 📩 Contact
 Sudarshanam Yessasvini
@@ -91,6 +99,7 @@ Senior Software Engineer
 📧 yessasvini.s@gmail.com
 🌐 Portfolio
 🔗 LinkedIn
+
 
 
 Empowering global health with trust, technology, and transparency.
