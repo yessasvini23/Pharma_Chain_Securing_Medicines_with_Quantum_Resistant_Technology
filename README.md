@@ -1,4 +1,3 @@
-# PharmaChain-Securing-Medicines-with-Quantum-Resistant-Technology
 # 🔬 PharmaChain: Securing Medicines with Quantum-Resistant Technology
 
 > A next-generation pharmaceutical authentication platform leveraging **quantum-safe blockchain**, **mobile vision AI**, **micro-optics tags**, and **DeFi incentives** to combat counterfeit drugs — particularly in high-risk regions like Africa and Asia.
