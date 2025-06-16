@@ -1,1 +1,1 @@
-# -PharmaChain-Securing-Medicines-with-Quantum-Resistant-Technology
+# PharmaChain-Securing-Medicines-with-Quantum-Resistant-Technology
